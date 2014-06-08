@@ -1,0 +1,12 @@
+.horloge{
+	float:left;
+	font-size: 20rem;
+	text-align: center;
+}
+
+#anime{
+	width:10rem;
+	height:10rem;
+	background: blue;
+	position: absolute;
+}
